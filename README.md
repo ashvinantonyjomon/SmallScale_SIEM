@@ -180,4 +180,10 @@ Press `Ctrl + C` in Kali terminal
 > Logs are generated on a Linux endpoint, forwarded via a custom agent to a centralized SIEM backend, processed for security detections, and visualized in real time through a live dashboard.
 
 ---
+## Credits
+
+This project used log forwarder code from the following open-source project:
+
+- https://github.com/Ahmed-Sobhi-Ali/Custom-SIEM-Pipeline-with-AI-Powered-Detection/blob/main/log_forwarder.py by @Ahmed Sobhi Ali  
+  
 
