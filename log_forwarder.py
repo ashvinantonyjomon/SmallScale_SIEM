@@ -3,6 +3,15 @@
 Real-time systemd journal log forwarder
 Supports multiple protocols: HTTP, TCP, UDP, Syslog
 """
+"""
+This file includes code adapted from:
+https://github.com/Ahmed-Sobhi-Ali/Custom-SIEM-Pipeline-with-AI-Powered-Detection/blob/main/log_forwarder.py
+
+Author: Ahmed Sobhi Ali
+Original file: log_forwarder.py
+
+"""
+
 
 import json
 import socket
